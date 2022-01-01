@@ -1,4 +1,4 @@
-import images from "./images.jpg";
+import icon from "./icon.png";
 import "./App.css";
 import Dictionary from "./Dictionary";
 
@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <img src={images} className="App-logo img-fluid" alt="logo" />
+          <img src={icon} className="App-logo img-fluid" alt="logo" />
         </header>
         <Dictionary />
         <footer className="App-footer">
