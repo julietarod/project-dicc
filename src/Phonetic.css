@@ -13,5 +13,6 @@
 }
 a:hover {
   color: #c02739;
+  opacity: 0.7;
   background-color: #f8eeee;
 }
